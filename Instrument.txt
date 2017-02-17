@@ -1,0 +1,235 @@
+0Piano 1     
+1Piano 2     
+2Piano 3     
+3Honky-tonk  
+4E.Piano 1   
+5E.Piano 2   
+6Harpsichord 
+7Clav.       
+8Celesta     
+9Glockenspiel
+10Music Box   
+11Vibraphone  
+12Marimba     
+13Xylophone   
+14Tubular-bell
+15Santur      
+16Organ 1     
+17Organ 2     
+18Organ 3     
+19Church Org.1
+20Reed Organ  
+21Accordion Fr
+22Harmonica   
+23Bandoneon   
+24Nylon-str.Gt
+25Steel-str.Gt
+26Jazz Gt.    
+27Clean Gt.   
+28Muted Gt.   
+29Overdrive Gt
+30DistortionGt
+31Gt.Harmonics
+32Acoustic Bs.
+33Fingered Bs.
+34Picked Bs.  
+35Fretless Bs.
+36Slap Bass 1 
+37Slap Bass 2 
+38Synth Bass 1
+39Synth Bass 2
+40Violin      
+41Viola       
+42Cello       
+43Contrabass  
+44Tremolo Str 
+45PizzicatoStr
+46Harp        
+47Timpani     
+48Strings     
+49Slow Strings
+50Syn.Strings1
+51Syn.Strings2
+52Choir Aahs  
+53Voice Oohs  
+54SynVox      
+55OrchestraHit
+56Trumpet     
+57Trombone    
+58Tuba        
+59MutedTrumpet
+60French Horns
+61Brass 1     
+62Synth Brass1
+63Synth Brass2
+64Soprano Sax 
+65Alto Sax    
+66Tenor Sax   
+67Baritone Sax
+68Oboe        
+69English Horn
+70Bassoon     
+71Clarinet    
+72Piccolo     
+73Flute       
+74Recorder    
+75Pan Flute   
+76Bottle Blow 
+77Shakuhachi  
+78Whistle     
+79Ocarina     
+80Square Wave 
+81Saw Wave    
+82Syn.Calliope
+83Chiffer Lead
+84Charang     
+85Solo Vox    
+865th Saw Wave
+87Bass & Lead 
+88Fantasia    
+89Warm Pad    
+90Polysynth   
+91Space Voice 
+92Bowed Glass 
+93Metal Pad   
+94Halo Pad    
+95Sweep Pad   
+96Ice Rain    
+97Soundtrack  
+98Crystal     
+99Atmosphere  
+100Brightness  
+101Goblin      
+102Echo Drops  
+103Star Theme  
+104Sitar       
+105Banjo       
+106Shamisen    
+107Koto        
+108Kalimba     
+109Bagpipe     
+110Fiddle      
+111Shanai      
+112Tinkle Bell 
+113Agogo       
+114Steel Drums 
+115Woodblock   
+116Taiko       
+117Melo. Tom 1 
+118Synth Drum  
+119Reverse Cym.
+120Gt.FretNoise
+121Breath Noise
+122Seashore    
+123Bird        
+124Telephone 1 
+125Helicopter  
+126Applause    
+127Gun Shot    
+128SynthBass101
+129Trombone 2  
+130Fr.Horn 2   
+131Square      
+132Saw         
+133Syn Mallet  
+134Echo Bell   
+135Sitar 2     
+136Gt.Cut Noise
+137Fl.Key Click
+138Rain        
+139Dog         
+140Telephone 2 
+141Car-Engine  
+142Laughing    
+143Machine Gun 
+144Echo Pan    
+145String Slap 
+146Thunder     
+147Horse-Gallop
+148DoorCreaking
+149Car-Stop    
+150Screaming   
+151Lasergun    
+152Wind        
+153Bird 2      
+154Door        
+155Car-Pass    
+156Punch       
+157Explosion   
+158Stream      
+159Scratch     
+160Car-Crash   
+161Heart Beat  
+162Bubble      
+163Wind Chimes 
+164Siren       
+165Footsteps   
+166Train       
+167Jetplane    
+168Piano 1     
+169Piano 2     
+170Piano 3     
+171Honky-tonk  
+172Detuned EP 1
+173Detuned EP 2
+174Coupled Hps.
+175Vibraphone  
+176Marimba     
+177Church Bell 
+178Detuned Or.1
+179Detuned Or.2
+180Church Org.2
+181Accordion It
+182Ukulele     
+18312-str.Gt   
+184Hawaiian Gt.
+185Chorus Gt.  
+186Funk Gt.    
+187Feedback Gt.
+188Gt. Feedback
+189Synth Bass 3
+190Synth Bass 4
+191Slow Violin 
+192Orchestra   
+193Syn.Strings3
+194Brass 2     
+195Synth Brass3
+196Synth Brass4
+197Sine Wave   
+198Doctor Solo 
+199Taisho Koto 
+200Castanets   
+201Concert BD  
+202Melo. Tom 2 
+203808 Tom     
+204Starship    
+205Carillon    
+206Elec Perc.  
+207Burst Noise 
+208Piano 1d    
+209E.Piano 1v  
+210E.Piano 2v  
+211Harpsichord 
+21260's Organ 1
+213Church Org.3
+214Nylon Gt.o  
+215Mandolin    
+216Funk Gt.2   
+217Rubber Bass 
+218AnalogBrass1
+219AnalogBrass2
+22060's E.Piano
+221Harpsi.o    
+222Organ 4     
+223Organ 5     
+224Nylon Gt.2  
+225Choir Aahs 2
+226Standard    
+227Room        
+228Power       
+229Electronic  
+230TR-808      
+231Jazz        
+232Brush       
+233Orchestra   
+234SFX         
