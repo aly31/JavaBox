@@ -22,6 +22,12 @@ Currently, new changes are being made to improve this.
 - Dependencies: GoDistance.java, SampleSoundPlus.java, SampleSoundEric.java
 - run: java SoundPanel
 
+Contributions:
+  - Eric Dong: SampleSoundEric.java, SoundPanel.java
+  - Albert Yang: SampleSoundPlus.java, SoundPanel.java
+  - Jessica Reyes: GoDistance.java, SoundPanel.java
+  
+
 Bugs:
   - songs will overlap each other, even though buttons are disabled
   - Pressing the same song more than once will loop the song by the number times you have clicked it
