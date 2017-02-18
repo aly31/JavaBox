@@ -8,7 +8,8 @@ Bugs:
 
 
 Currently, new changes are being made to improve this.
+
 *** newer changes will be made in the source codes
-compile: javac SoundPanel.java
-Dependencies: GoDistance.java, SampleSoundPlus.java, SampleSoundEric.java
-run: java SoundPanel
+- compile: javac SoundPanel.java
+- Dependencies: GoDistance.java, SampleSoundPlus.java, SampleSoundEric.java
+- run: java SoundPanel
