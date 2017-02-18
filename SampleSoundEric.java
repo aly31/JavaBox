@@ -6,9 +6,9 @@ import javax.swing.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 public class SampleSoundEric {
-	private static final Logger LOG = Logger.getLogger(SampleSound.class.getName());
+	private static final Logger LOG = Logger.getLogger(SampleSoundEric.class.getName());
 	private static final int MIDI_CHANNEL = 0;
-	private static final int[] notes = new int[]{0,52, 0,52, 0, 52, 0, 52, 0};
+	//private static final int[] notes = new int[]{0,52, 0,52, 0, 52, 0, 52, 0};
 	private static final int[] metronome = new int[] {56};
 	 
 	public static void main(String[] args){
@@ -131,7 +131,7 @@ public class SampleSoundEric {
 		}
 	}
 	public static void playChord(Synthesizer synth, MidiChannel[] channel, int chanNum, int note, int rest, int volume) {
-	        channel[chanNum].noteOn(note+12, volume);//type of note, volume
+	        channel[chanNum].noteOn(note, volume);//type of note, volume
 		try{
 		Thread.sleep(rest);//rest
 		}

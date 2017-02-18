@@ -1,3 +1,7 @@
+This text file contains all the possible instruments that can be played
+
+format: indexInstrument
+
 0Piano 1     
 1Piano 2     
 2Piano 3     

@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.util.logging.*;
 
 public class GoDistance {
-	private static final Logger LOG = Logger.getLogger(SampleSound.class.getName());	
+	private static final Logger LOG = Logger.getLogger(GoDistance.class.getName());	
 	private static final int MIDI_CHANNEL = 0;
 	private static int[] hercules = new int[]{ 66, 67, 69, 62, 64, 66, 64, 66, 67, 66, 64,
 	 	66, 67, 69, 62, 64, 66, 64, 66, 67, 64,
