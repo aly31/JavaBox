@@ -9,8 +9,11 @@ Bugs:
   - buttons can be pressed multiple times while 1 song is being played, this causes to have songs to overlap each other.
   - pause, exit button not implemented
   
-*** Please Note that during the Hackathon the goal was to show how Java can be used to transcribe/compose songs, this is why the gui
-may appear to be lacking. 
+*** Please Note that during the Hackathon our goal was to show how Java can be used to transcribe/compose songs, this is why the GUI
+may appear to be limited. 
+
+
+
 
 Currently, new changes are being made to improve this.
 
