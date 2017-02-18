@@ -4,6 +4,7 @@ Created by Eric Dong, Albert Yang, Jessica Reyes at SteelHacks 2017
 Current Status: In Progress
 
 JavaBox.jar is a java executable file made for Steel Hacks (Feb 2017), this version currently has some bugs
+
 Bugs: 
   - buttons can be pressed multiple times while 1 song is being played, this causes to have songs to overlap each other.
   - pause, exit button not implemented
