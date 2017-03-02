@@ -33,4 +33,4 @@ Bugs:
   - Pressing the same song more than once will loop the song by the number times you have clicked it
   
   
-  Possible solution to implementing pausing :Put thread to sleep to implement "pausing"
+  Possible solution to implementing pausing: Put thread to sleep to implement "pausing"
