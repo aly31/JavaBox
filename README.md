@@ -31,3 +31,6 @@ Contributions:
 Bugs:
   - songs will overlap each other, even though buttons are disabled
   - Pressing the same song more than once will loop the song by the number times you have clicked it
+  
+  
+  Possible solution to implementing pausing :Put thread to sleep to implement "pausing"
